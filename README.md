@@ -1,2 +1,2 @@
 # Jinki-Noh.github.io
-For my website
+This is a website that Class test
